@@ -16,3 +16,4 @@ The header _typically_ consists of two parts: the type of the token, which is 
 { "alg": "HS256", "typ": "JWT" }
 ```
 
+![[Pasted image 20230731182943.png]]
